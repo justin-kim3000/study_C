@@ -1,0 +1,8 @@
+C:\Users\KB\source\repos\basic221201\class1209\bin\Debug\class1209.exe.config
+C:\Users\KB\source\repos\basic221201\class1209\bin\Debug\class1209.exe
+C:\Users\KB\source\repos\basic221201\class1209\bin\Debug\class1209.pdb
+C:\Users\KB\source\repos\basic221201\class1209\obj\Debug\class1209.csproj.AssemblyReference.cache
+C:\Users\KB\source\repos\basic221201\class1209\obj\Debug\class1209.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\source\repos\basic221201\class1209\obj\Debug\class1209.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\basic221201\class1209\obj\Debug\class1209.exe
+C:\Users\KB\source\repos\basic221201\class1209\obj\Debug\class1209.pdb
