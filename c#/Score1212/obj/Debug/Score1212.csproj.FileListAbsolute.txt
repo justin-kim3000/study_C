@@ -1,0 +1,8 @@
+C:\Users\KB\source\repos\basic221201\Score1212\bin\Debug\Score1212.exe.config
+C:\Users\KB\source\repos\basic221201\Score1212\bin\Debug\Score1212.exe
+C:\Users\KB\source\repos\basic221201\Score1212\bin\Debug\Score1212.pdb
+C:\Users\KB\source\repos\basic221201\Score1212\obj\Debug\Score1212.csproj.AssemblyReference.cache
+C:\Users\KB\source\repos\basic221201\Score1212\obj\Debug\Score1212.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\source\repos\basic221201\Score1212\obj\Debug\Score1212.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\basic221201\Score1212\obj\Debug\Score1212.exe
+C:\Users\KB\source\repos\basic221201\Score1212\obj\Debug\Score1212.pdb
