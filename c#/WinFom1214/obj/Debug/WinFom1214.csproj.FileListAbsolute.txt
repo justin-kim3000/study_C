@@ -1,0 +1,14 @@
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\bin\Debug\WinFom1214.exe.config
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\bin\Debug\WinFom1214.exe
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\bin\Debug\WinFom1214.pdb
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.csproj.AssemblyReference.cache
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.Properties.Resources.resources
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.exe
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.pdb
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.Form1.resources
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.Form2.resources
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.Form3.resources
+C:\Users\KB\source\repos\WinFom1214\WinFom1214\obj\Debug\WinFom1214.Calc.resources
