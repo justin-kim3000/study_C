@@ -1,0 +1,8 @@
+C:\Users\KB\source\repos\basic221201\Sol1213_1\bin\Debug\Sol1213_1.exe.config
+C:\Users\KB\source\repos\basic221201\Sol1213_1\bin\Debug\Sol1213_1.exe
+C:\Users\KB\source\repos\basic221201\Sol1213_1\bin\Debug\Sol1213_1.pdb
+C:\Users\KB\source\repos\basic221201\Sol1213_1\obj\Debug\Sol1213_1.csproj.AssemblyReference.cache
+C:\Users\KB\source\repos\basic221201\Sol1213_1\obj\Debug\Sol1213_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\source\repos\basic221201\Sol1213_1\obj\Debug\Sol1213_1.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\basic221201\Sol1213_1\obj\Debug\Sol1213_1.exe
+C:\Users\KB\source\repos\basic221201\Sol1213_1\obj\Debug\Sol1213_1.pdb

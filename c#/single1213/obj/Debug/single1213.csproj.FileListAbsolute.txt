@@ -1,0 +1,8 @@
+C:\Users\KB\source\repos\basic221201\single1213\bin\Debug\single1213.exe.config
+C:\Users\KB\source\repos\basic221201\single1213\bin\Debug\single1213.exe
+C:\Users\KB\source\repos\basic221201\single1213\bin\Debug\single1213.pdb
+C:\Users\KB\source\repos\basic221201\single1213\obj\Debug\single1213.csproj.AssemblyReference.cache
+C:\Users\KB\source\repos\basic221201\single1213\obj\Debug\single1213.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\source\repos\basic221201\single1213\obj\Debug\single1213.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\basic221201\single1213\obj\Debug\single1213.exe
+C:\Users\KB\source\repos\basic221201\single1213\obj\Debug\single1213.pdb
